@@ -1,0 +1,7 @@
+{
+  "name": "@librescore/sf3",
+  "version": "0.1.0",
+  "description": "The SoundFont file for LibreScore",
+  "author": "LibreScore",
+  "license": "MIT"
+}
