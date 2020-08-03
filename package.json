@@ -1,7 +1,8 @@
 {
   "name": "@librescore/sf3",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "The SoundFont file for LibreScore",
+  "main": "./index.js",
   "browser": "./webpack.mjs",
   "author": "LibreScore",
   "license": "MIT"
