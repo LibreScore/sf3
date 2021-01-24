@@ -1,14 +1,9 @@
 {
   "name": "@librescore/sf3",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "The SoundFont file for LibreScore",
   "main": "./index.js",
   "browser": "./webpack.mjs",
-  "exports": {
-    "./cdn": {
-      "default": "./cdn.js"
-    }
-  },
   "author": "LibreScore",
   "license": "MIT"
 }
