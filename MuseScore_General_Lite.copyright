@@ -1,0 +1,71 @@
+
+Available at:
+* https://people.debian.org/~tg/sf/
+* https://ftp.osuosl.org/pub/musescore/soundfont/MuseScore_General/
+* https://ubuntu.pkgs.org/22.04/ubuntu-universe-amd64/musescore-general-soundfont-small_0.2.1-1_all.deb.html
+    (https://pkgs.org/download/musescore-compatible-soundfont)
+
+---
+
+This package was debianised by Thorsten Glaser <tg@mirbsd.de> on
+Mon, 05 Mar 2018 02:28:13 +0100.
+
+MuseScore_General was downloaded via a shared hyperlink from:
+https://drive.google.com/file/d/1Y39F2YJIsZumGPry1ELJcbcmW2R-qZqG/view?usp=sharing&ts=61550209
+
+The original distribution was a PKZIP archive, repacked for Debian.
+During repacking, the precompiled *.sf3 file was excluded, and the
+FAT filesystem-originating executable bits were dropped from all files.
+
+Licence:
+
+MuseScore_General SoundFont (MIT, parts PD or CC0):
+
+MuseScore Drumline (MDL) samples (CC0) by S. Christian Collins & Amir Oosman
+Splendid Grand piano from AKAI S5000 (verified Public Domain)
+
+Marching Cymbals: open crash samples from Versilian Community Sample Library
+https://github.com/sgossner/VCSL (CC0) by Sam Gossner
+
+Adaptation for MuseScore_General Copyright © 2018-2021 S. Christian Collins
+Debian packaging, Metronome/documentation © 2018-2021 mirabilos <m@mirbsd.org>
+
+Fluid (R3) Mono GM soundfont (MIT):
+
+Mono version Copyright © 2014-2017 Michael Cowgill
+Temple Blocks instrument Copyright © 2002 Ethan Winer
+Drumline Cymbals Copyright © 2016 Michael Schorsch
+
+(Original Stereo version) Fluid (R3) GM SoundFont (MIT):
+
+Copyright © 2000-2002, 2008 Frank Wen <getfrank@gmail.com>
+Inclusion into Debian derivatives © 2008 Toby Smithe
+
+Fluid was constructed in part from samples found in the public
+domain that I [Frank Wen] edited/cleaned/remixed/programmed and
+largely from recordings of my own and in conjunction with the
+people below who helped along the way: Suren M. Seron,
+Scott Hanan, Steve Aupperle, Chris Gillman, Alex Taubr,
+Chris Prola, Andrew Klenk, Winfried Hubbe, Dylan, Tim, Gort,
+Uros Katic, Ethan Winer (http://www.ethanwiner.com)
+
+Permission is hereby granted, free of charge, to any person
+obtaining a copy of this software and associated documentation
+files (the "Software"), to deal in the Software without
+restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.

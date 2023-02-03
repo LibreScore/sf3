@@ -6,3 +6,4 @@ const URL_PREFIX = `${CDN_PROVIDER}/${name}@${version}` // https://cdn.jsdelivr.
 
 // file URLs
 module.exports.FluidR3Mono = `${URL_PREFIX}/FluidR3Mono_GM.sf3.wasm`
+module.exports.MSBasic     = `${URL_PREFIX}/MuseScore_General_Lite.sf3.wasm`
